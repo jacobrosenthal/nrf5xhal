@@ -1,0 +1,13 @@
+{
+  "name": "nrf5xhal",
+  "version": "0.0.1",
+  "description": "slim nrf5x platform only functions",
+  "keywords": [],
+  "author": "Jacob Rosenthal",
+  "license": "MIT",
+  "dependencies": {
+    "mbed-hal": "^1.0.0",
+    "cmsis-core": "^1.0.0",
+    "nrf51-sdk": "^2.0.0"
+  }
+}
