@@ -6,7 +6,7 @@
 #include <stddef.h>
 #include "cmsis.h"
 
-#include "mbed-drivers/mbed_error.h"
+#include <mbed_error.h>
 
 #ifndef YOTTA_CFG_MBED_MAX_INTERRUPTS
 #   define YOTTA_CFG_MBED_MAX_INTERRUPTS 31
